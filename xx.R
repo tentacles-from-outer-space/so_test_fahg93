@@ -13,3 +13,5 @@ library(ABC)
 require(xxx)
 99L + 17.13
 licence
+
+Change from inside RStudio
