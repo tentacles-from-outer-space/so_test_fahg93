@@ -17,3 +17,5 @@ licence
 Change from inside RStudio
 
 ajajajajsssssssssssssssssssssssssssssssssssssssssssssssssssss
+
+ciekawe jak ja to zrobiłem :/
