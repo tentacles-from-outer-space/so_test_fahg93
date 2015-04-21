@@ -24,3 +24,7 @@ D. Jakaś edycja w branczhy
 Kolejna edycja
 
 Kolejna edycja w branczy
+# --------------
+To JEST MASTER
+Ten git po prostu wypierdala z obuwia
+
