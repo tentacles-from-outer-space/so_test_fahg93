@@ -9,7 +9,7 @@ TRUE
 'xxxx'
 xxxx
 
-library(ABC)
+library(ABC)a
 require(xxx)
 99L + 17.13
 licence
@@ -19,3 +19,6 @@ Change from inside RStudio
 ajajajajsssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 ciekawe jak ja to zrobiłem :/
+
+D. Jakaś edycja w branczhy
+Kolejna edycja
