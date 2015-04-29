@@ -17,7 +17,7 @@ Setup:
 	git config credential.helper wincred # to remember password in RStudio/gitshell
 	git config user.email ""
 	git config user.name "refrence to place? say Marek@homeWin"
-	??? git config merge --no-ff ???
+	git config [--global] merge.ff false
 	??? push always with -all (configurable?)
 	
 	# devel bracnh
