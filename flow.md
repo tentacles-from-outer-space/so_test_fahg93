@@ -24,9 +24,11 @@ Setup:
 	git branch devel
 
 
+Cleanup (http://stackoverflow.com/questions/2003505/delete-a-git-branch-both-locally-and-remotely):
 
-
-
+	git branch -d test_branchy
+	git push origin --delete test_branchy
+	git push origin --delete Kolejna
 
 
 
