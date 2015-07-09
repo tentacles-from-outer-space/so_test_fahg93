@@ -24,7 +24,10 @@ Setup:
 	git config --global color.ui true
 	git config --global core.editor ????
 	
+<<<<<<< HEAD
 	
+=======
+>>>>>>> 7ff0beff3e5b67cc48e2fd9df113804421be7069
 	# devel bracnh
 	git branch devel
 
