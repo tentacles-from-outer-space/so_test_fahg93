@@ -20,6 +20,11 @@ Setup:
 	??? git config merge --no-ff ???
 	??? push always with -all (configurable?)
 	
+	# http://kbroman.org/github_tutorial/pages/first_time.html
+	git config --global color.ui true
+	git config --global core.editor ????
+	
+	
 	# devel bracnh
 	git branch devel
 
