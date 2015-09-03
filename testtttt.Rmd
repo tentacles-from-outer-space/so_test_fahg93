@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+output: pdf_document
+---
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r}
+x <- 17
+y <- "aaa"
+```
+
+A ja teraz chce zrobić *`r x`* i co? A może `r y` albo *`r y`*?
